@@ -1,2 +1,4 @@
 *.pyc
 .idea
+core/migrations/*
+django.conf
